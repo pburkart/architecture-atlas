@@ -1,0 +1,16 @@
+/docker-entrypoint.sh: Configuration complete; ready for start up
+{"t":"2026-10-15T09:01","m":"GET","p":"/index.html","s":200,"b":0}
+{"t":"2026-10-15T09:02","m":"GET","p":"/atlas/hpc-scheduler/index.html","s":200,"b":0}
+{"t":"2026-10-15T09:03","m":"GET","p":"/atlas/hpc-scheduler/index.html","s":200,"b":0}
+{"t":"2026-10-15T09:04","m":"GET","p":"/atlas/compiler/index.html","s":200,"b":0}
+{"t":"2026-10-15T09:05","m":"GET","p":"/assets/site.css","s":200,"b":0}
+{"t":"2026-10-15T09:06","m":"GET","p":"/atlas/nope/index.html","s":404,"b":0}
+{"t":"2026-10-15T09:07","m":"HEAD","p":"/atlas/compiler/index.html","s":200,"b":0}
+{"t":"2026-10-15T09:08","m":"GET","p":"/healthz","s":200,"b":1}
+{"t":"2026-10-15T09:09","m":"GET","p":"/atlas/compiler/index.html","s":200,"b":1}
+{"t":"2026-10-15T09:10","m":"GET","p":"/atlas/compiler/data.js","s":200,"b":0}
+{"t":"2026-10-15T09:11","m":"POST","p":"/index.html","s":405,"b":0}
+2026/10/15 09:12:00 [notice] 1#1: signal process started
+{"t":"2026-10-16T10:00","m":"GET","p":"/atlas/compiler/index.html","s":200,"b":0}
+{"t":"2026-10-16T10:01","m":"GET","p":"/atlas/compiler/","s":200,"b":0}
+{"t":"2026-10-16T10:02","m":"GET","p":"/index.html","s":304,"b":0}

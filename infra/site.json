@@ -1,0 +1,4 @@
+{
+  "_about": "The site's own domain (AB#4984), the one place it is set: the Board named schematica.ca (2026-10-17), served on the apex, with www.schematica.ca sent to it. tools/build.mjs writes the canonical links and the sitemap for it, and infra/deploy.ps1 passes it to infra/atlas.bicep.",
+  "domain": "schematica.ca"
+}
